@@ -14,6 +14,9 @@ const robotoMono = Roboto_Mono({
 export const metadata = {
   title: "Delhi Beyblade Championship 2026",
   description: "Welcome to the ultimate Delhi Beyblade Championship 2026! Join us for an exciting competition and showcase your skills.",
+  icons: {
+    icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vD6PlKNmCNxzBOl3tGeRJWqOP_10pezk5g&s",
+  },
 };
 
 export default function RootLayout({ children }) {
